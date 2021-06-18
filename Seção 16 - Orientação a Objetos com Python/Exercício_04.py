@@ -138,7 +138,6 @@ if __name__ == "__main__":
     tv1 = Televisao(500)
 
     controle1 = ControleRemoto(tv1)
-
     [controle1.aumentar_volume() for _ in range(50)]
 
     controle1.mudar_canal(200)
