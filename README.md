@@ -7,5 +7,6 @@
 - [Seção 07 - Coleções Python](https://github.com/romulovieira777/Exercicios_Python_Geek_University/tree/master/Se%C3%A7%C3%A3o%2007%20-%20Cole%C3%A7%C3%B5es%20Python)
 - [Seção 08 - Funções em Python](https://github.com/romulovieira777/Exercicios_Python_Geek_University/tree/master/Se%C3%A7%C3%A3o%2008%20-%20Fun%C3%A7%C3%B5es%20em%20Python)
 - [Seção 13 - Leitura e Escrita em Arquivos](https://github.com/romulovieira777/Exercicios_Python_Geek_University/tree/master/Se%C3%A7%C3%A3o%2013%20-%20Leitura%20e%20Escrita%20em%20Arquivos)
+- [Seção 16 - Orientação a Objetos com Python](https://github.com/romulovieira777/Exercicios_Python_Geek_University/tree/master/Se%C3%A7%C3%A3o%2016%20-%20Orienta%C3%A7%C3%A3o%20a%20Objetos%20com%20Python)
 
 Link para o curso: [Udemy](https://www.udemy.com/course/curso-de-programacao-em-python-do-basico-ao-avancado/)
